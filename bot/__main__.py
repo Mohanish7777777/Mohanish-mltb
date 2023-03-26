@@ -68,7 +68,7 @@ async def start(client, message):
     else:
         start_string = '🌹 Welcome To One Of A Modified Anasty Mirror Bot\n' \
                     'This bot can Mirror all your links To Google Drive!\n' \
-                    '👨🏽‍💻 Powered By: @JMDKH_Team'
+                    '👨🏽‍💻 Powered By: @Mohanish7777777'
     await sendMessage(message, start_string)
 
 async def restart(client, message):
